@@ -1,5 +1,5 @@
-## Hi There 👋
+## Selamlar 👋
 
-I'm 19 yo web developer. I like learn new things.
+Ben Bayram, 19 yaşındayım ve İzmir'de yaşıyorum. Çocukluğumdan beri bir şeyler üretmeyi çok seven birisiyim. Genellikle web geliştirme üzerine ilgileniyorum. 
 
-🌱 I’m currently learning: **React**
+🌱 Şu an **Vue ve Nuxt.js** öğreniyorum.
